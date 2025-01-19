@@ -1,11 +1,11 @@
 # ROM-Memory-Design-Using-Verilog
 use synopsys tool to run files and show the output.  
-there are  
+main file and testbench:  
 ```C
 mainfile: rom.v 
 testbench: romtb.v
 ```
-another file:
+other files:
 ```C
 mainfile: root.v
 testbench: root_tb.v
